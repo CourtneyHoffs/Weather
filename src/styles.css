@@ -1,0 +1,29 @@
+input {
+  text-align: center;
+  padding: 10px;
+}
+h1 {
+  color: navy;
+}
+h2 {
+  color: navy;
+  text-align: center;
+  padding: 25px;
+}
+li {
+  list-style: none;
+}
+ul {
+  list-style: none;
+}
+.row1 {
+  text-align: center;
+  padding: 25px;
+}
+.find {
+  margin: 50px;
+}
+.row {
+  text-align: center;
+  padding: 0;
+}
